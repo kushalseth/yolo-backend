@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+out/
+.idea/
+.vscode/
+local_notes_configs.txt
+yolo-dataset-backend-53ff709f3de4.json
